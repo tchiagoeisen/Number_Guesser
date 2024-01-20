@@ -6,8 +6,6 @@ This is small guessing game project. In this project, you’ll write four functi
 ## The Game
 Play against the computer. Pick a number from 0 to 9 and hit `make a guess`, the guess which is closest to the mystery number wins. To go to the next round hit the button `next round`.
 
-<a href="https://tchiagoeisen.github.io/Number_Guesser/index.html" target="_blank">Play the Game</a>
-
 ## Credits
 This was a project from CodeCademy. The main goal in this project was to write the functions in the `script.js`.<br>
 I also did some changes on the others files.
